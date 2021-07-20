@@ -1,0 +1,60 @@
+.container{
+    padding-bottom: 5%;
+}
+.buttom-style{
+background-image: linear-gradient( rgb(77, 34, 34),black);
+color: rgb(245, 245, 245);
+border: none;
+border-radius: 7px;
+padding: 10px 30px;
+}
+
+.pink-bg{
+    background-image: url("hot/bg-1.png");
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+}
+
+
+
+
+.carousel-item{
+    padding:10px  25px;
+}
+
+
+
+.cat1,.cat2,.cat3{
+    padding: 10px 10px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 20px gray;
+}
+.cat1{
+    background-color: pink;
+}
+.cat2{
+    background-color:rgb(90, 90, 192) ;
+}
+.cat3{
+    background-color:orange ;
+}
+.mobile{
+    text-align: center;
+}
+.top1{
+    float: left;
+}
+.top2{
+    float:right;
+    color: orange;
+}
+.container1{
+    width: 1500px;
+    height: 30px;
+}
+.categories-text{
+    margin-left: 45%;
+}
+.footer{
+    margin-left: 43%;
+}
